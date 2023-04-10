@@ -12,7 +12,7 @@
 
 ### ✨ [Demo](https://frolicking-cheesecake-5ce7c9.netlify.app/)
 
-## Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel
+## TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel
 
 
 We are going to learn funcionalities such as:
@@ -61,6 +61,7 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
+| `build`         | Starts a development instance of the app |
 
 
 ## Author
