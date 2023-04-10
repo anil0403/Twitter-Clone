@@ -12,7 +12,7 @@
 
 ### ✨ [Demo](https://frolicking-cheesecake-5ce7c9.netlify.app/)
 
-# Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel
+## Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel
 
 
 We are going to learn funcionalities such as:
@@ -29,17 +29,17 @@ We are going to learn funcionalities such as:
 - Likes functionality
 - Vercel Deployment
 
-### Prerequisites
+## Prerequisites
 
 **Node version 14.x**
 
-### Install packages
+## Install packages
 
 ```shell
 npx create-next-app@latest
 ```
 
-### Setup .env file
+## Setup .env file
 
 
 ```js
@@ -48,7 +48,7 @@ NEXTAUTH_JWT_SECRET=
 NEXTAUTH_SECRET=
 ```
 
-### Start the app
+## Start the app
 
 ```shell
 npm run dev
@@ -74,6 +74,3 @@ Running commands with npm `npm run [command]`
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
