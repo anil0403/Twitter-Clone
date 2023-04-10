@@ -3,7 +3,8 @@ import { useCallback, useMemo } from "react";
 import { toast } from "react-hot-toast";
 
 import useCurrentUser from "./useCurrentUser";
-import useLoginModal from "./useLoginModal";
+// import useLoginModal from "./useLoginModal";
+import useLoginModal from "./UseLoginModal";
 import usePost from "./usePost";
 import usePosts from "./usePosts";
 
