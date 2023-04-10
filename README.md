@@ -1,49 +1,40 @@
-# Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel
+<h1 align="center">Welcome to Twitter Clone 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.00-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/anil0403" target="_blank">
+    <img alt="Twitter: anil0403" src="https://img.shields.io/twitter/follow/anil0403.svg?style=social" />
+  </a>
+</p>
 
+> Twitter Clone for educational purpose.
 
-We are going to learn funcionalities such as:
+### 🏠 [Homepage](https://frolicking-cheesecake-5ce7c9.netlify.app/)
 
-- Authentication system
-- Notification system
-- Image Upload using Base64 strings
-- Prisma ORM with MongoDB
-- Responsive Layout
-- 1 To Many Relations (User - Post)
-- Many To Many Relations (Post - Comment)
-- Following functionality
-- Comments / Replies
-- Likes functionality
-- Vercel Deployment
+### ✨ [Demo](https://frolicking-cheesecake-5ce7c9.netlify.app/)
 
-### Prerequisites
+## Install
 
-**Node version 14.x**
-
-### Install packages
-
-```shell
-npm i
+```sh
+npx create-next-app@latest
 ```
 
-### Setup .env file
+## Usage
 
-
-```js
-DATABASE_URL=
-NEXTAUTH_JWT_SECRET=
-NEXTAUTH_SECRET=
+```sh
+npm run start
 ```
 
-### Start the app
+## Author
 
-```shell
-npm run dev
-```
+👤 **Anil Shrestha**
 
-## Available commands
+* Twitter: [@anil0403](https://twitter.com/anil0403)
+* Github: [@anil0403](https://github.com/anil0403)
+* LinkedIn: [@anil-shrestha-6875591b5](https://linkedin.com/in/anil-shrestha-6875591b5)
 
-Running commands with npm `npm run [command]`
+## Show your support
 
-| command         | description                              |
-| :-------------- | :--------------------------------------- |
-| `dev`           | Starts a development instance of the app |
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
