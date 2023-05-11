@@ -8,9 +8,9 @@
 
 > Twitter clone for educational purposes
 
-### 🏠 [Homepage](https://frolicking-cheesecake-5ce7c9.netlify.app/)
+### 🏠 [Homepage](https://twitter-clone-rqzk.vercel.app/)
 
-### ✨ [Demo](https://frolicking-cheesecake-5ce7c9.netlify.app/)
+### ✨ [Demo](https://twitter-clone-rqzk.vercel.app/)
 
 ## TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel
 
